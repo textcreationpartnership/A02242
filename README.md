@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon, at the funeral solemnitie of the most high and mighty Prince Ferdinandus, the late Emperou
+
 #####Body#####
-A sermon, at the funeral solemnitie of the most high and mighty Prince Ferdinandus, the late Emperou
+
+1. ❧A sermon, at the Funeral solemnitie of the most high and mighty Prince Ferdinandus, the late Emperour of most famous memory, holden in the Cathedral church of saint Paule in London, the third of October. 1564. Made by the reuerend father in God Edmund Grindal, bishop of London.
+
+1. ❧The principal Mourners and assistantes at the funerals of Ferdinande, the late Emperour &c. celebrated at the Cathedral Church of S. Paules in London, the third of October. 1564.
+
 #####Back#####
-A sermon, at the funeral solemnitie of the most high and mighty Prince Ferdinandus, the late Emperou
+❧Imprinted at London by Iohn Day, dwelling ouer Aldersgate beneath S. Martins. The .viii. of Nouembe¶A newe booke containing the arte of ryding, and breakinge greate Horses, together with the shapes a
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
